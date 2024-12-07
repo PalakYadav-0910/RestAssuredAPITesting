@@ -7,7 +7,7 @@ import io.restassured.specification.RequestSpecification;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Validate_HTTP_Response {
+public class Validate_HTTP_ResponseStatus {
 
     @Test(description = "Validate HTTP Response - Get Single User : Non BDD Style")
     public void validateResponseNonBDDStyle(){

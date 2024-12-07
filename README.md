@@ -16,7 +16,7 @@ Project Url - https://reqres.in/
 * Intro Of Rest Assured | System Setup
 * How Rest Assured Works | Create HTTP Requests using BDD Style
 * Validate HTTP Response Status Using BDD and Non BDD Style
-* Validate HTTP Response Header
+* Validate HTTP Response Headers
 * 
 
 
