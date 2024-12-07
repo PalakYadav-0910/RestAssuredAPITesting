@@ -14,8 +14,9 @@ Project Url - https://reqres.in/
      Json-simple - https://mvnrepository.com/artifact/co...
 
 * Intro Of Rest Assured | System Setup
-* How Rest Assured Works | Create HTTP Requests
-* Validate HTTP Response Status
+* How Rest Assured Works | Create HTTP Requests using BDD Style
+* Validate HTTP Response Status Using BDD and Non BDD Style
+* Validate HTTP Response Header
 * 
 
 
