@@ -19,6 +19,7 @@ Project Url - https://reqres.in/
 * Validate HTTP Response Headers
 * Validate JSON Response Body
 * How To Work With Query Parameters
+* Authorization | Basic Authentication & Digest Authentication
 * 
 
 

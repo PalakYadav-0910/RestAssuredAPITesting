@@ -46,5 +46,6 @@ public class ValidateJSONResponseBody {
 
         //Print the value of some other node
         System.out.println("Email Address of Janet : " + jsonPathView.get("data[1].email"));
+
     }
 }
