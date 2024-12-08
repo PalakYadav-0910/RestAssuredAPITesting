@@ -21,6 +21,7 @@ Project Url - https://reqres.in/
 * How To Work With Query Parameters
 * Authorization | Basic Authentication & Digest Authentication
 * Authorization | Bearer Token Authentication
+* Authorization | API Key Authentication
 * 
 
 
