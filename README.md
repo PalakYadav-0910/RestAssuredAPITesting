@@ -17,6 +17,8 @@ Project Url - https://reqres.in/
 * How Rest Assured Works | Create HTTP Requests using BDD Style
 * Validate HTTP Response Status Using BDD and Non BDD Style
 * Validate HTTP Response Headers
+* Validate JSON Response Body
+* How To Work With Query Parameters
 * 
 
 
