@@ -22,6 +22,7 @@ Project Url - https://reqres.in/
 * Authorization | Basic Authentication & Digest Authentication
 * Authorization | Bearer Token Authentication
 * Authorization | API Key Authentication
+* Authorization | OAuth 2.0
 * 
 
 
