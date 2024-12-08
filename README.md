@@ -20,6 +20,7 @@ Project Url - https://reqres.in/
 * Validate JSON Response Body
 * How To Work With Query Parameters
 * Authorization | Basic Authentication & Digest Authentication
+* Authorization | Bearer Token Authentication
 * 
 
 
