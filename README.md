@@ -25,6 +25,7 @@ Project Url - https://reqres.in/
 * Authorization | OAuth 2.0
 * Deserialize the JSON Response
 * How To Retrieve/Query Request Specification
+* Send XML Data As Payload In Request | Validate XML response
 * 
 
 
