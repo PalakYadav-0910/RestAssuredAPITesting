@@ -23,6 +23,8 @@ Project Url - https://reqres.in/
 * Authorization | Bearer Token Authentication
 * Authorization | API Key Authentication
 * Authorization | OAuth 2.0
+* Deserialize the JSON Response
+* How To Retrieve/Query Request Specification
 * 
 
 
