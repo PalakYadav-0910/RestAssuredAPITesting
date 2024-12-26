@@ -30,6 +30,7 @@ Project Url - https://reqres.in/
 * Create JSON Array Using JSON Object and List
 * How To Create A JSON Object Using Jackson API
 * How To Upload File In Rest Assured
+* How To Create Your Own API & Perform CRUD Operations
 * 
 
 
