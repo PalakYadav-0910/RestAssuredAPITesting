@@ -32,6 +32,7 @@ Project Url - https://reqres.in/
 * How To Upload File In Rest Assured
 * How To Create Your Own API & Perform CRUD Operations
 * Create POJO Class of JSON data| Serialization| Deserialization
+* Create POJO Class of JSON Array| Serialization| Deserialization
 * 
 
 
