@@ -31,6 +31,7 @@ Project Url - https://reqres.in/
 * How To Create A JSON Object Using Jackson API
 * How To Upload File In Rest Assured
 * How To Create Your Own API & Perform CRUD Operations
+* Create POJO Class of JSON data| Serialization| Deserialization
 * 
 
 
