@@ -33,6 +33,8 @@ Project Url - https://reqres.in/
 * How To Create Your Own API & Perform CRUD Operations
 * Create POJO Class of JSON data| Serialization| Deserialization
 * Create POJO Class of JSON Array| Serialization| Deserialization
+* Create POJO Class of Nested JSON Object
+* Create POJO Class of Complex Nested JSON Object
 * 
 
 
