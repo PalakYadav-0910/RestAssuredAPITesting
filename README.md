@@ -40,6 +40,7 @@ Project Url - https://reqres.in/
 * Ignore Empty, Null & Default Values In Payload (@JsonInclude)
 * Ignore Fields from POJO Class From Serialization&Deserialization
 * Ignore Unknown Properties During Deserialization Process
+* Mock API Easily | Convert JSON Response To POJO Class Object
 * 
 
 
