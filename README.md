@@ -11,7 +11,9 @@ Project Url - https://reqres.in/
      
      TestNG - https://mvnrepository.com/artifact/or...
      
-     Json-simple - https://mvnrepository.com/artifact/co...
+     Json-Simple - https://mvnrepository.com/artifact/co...
+
+     Jackson-DataBind - https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
 
 * Intro Of Rest Assured | System Setup
 * How Rest Assured Works | Create HTTP Requests using BDD Style
@@ -36,6 +38,7 @@ Project Url - https://reqres.in/
 * Create POJO Class of Nested JSON Object
 * Create POJO Class of Complex Nested JSON Object
 * Ignore Empty, Null & Default Values In Payload (@JsonInclude)
+* Ignore Fields from POJO Class From Serialization&Deserialization
 * 
 
 
