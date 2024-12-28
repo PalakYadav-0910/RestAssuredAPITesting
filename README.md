@@ -35,6 +35,7 @@ Project Url - https://reqres.in/
 * Create POJO Class of JSON Array| Serialization| Deserialization
 * Create POJO Class of Nested JSON Object
 * Create POJO Class of Complex Nested JSON Object
+* Ignore Empty, Null & Default Values In Payload (@JsonInclude)
 * 
 
 

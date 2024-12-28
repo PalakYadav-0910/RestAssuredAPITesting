@@ -14,6 +14,22 @@ public class NestedJSONPayload {
     @Test
     public void createUser() throws JsonProcessingException {
 
+        /*
+        {
+  "firstName" : "Suresh",
+  "lastName" : "Mehra",
+  "gender" : "Male",
+  "age" : 35,
+  "salary" : 10000.56,
+  "Address" : {
+                 "Street" : "Park Avenue",
+				 "City" : "Vijawada",
+				 "State" : "Andhra Pradesh",
+				 "Pin Code" : 530012
+			  }
+}
+        */
+
         EmployeePOJO employeePOJO = new EmployeePOJO();
         employeePOJO.setFirstname("Suresh");
         employeePOJO.setLastname("Mehra");
