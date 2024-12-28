@@ -39,6 +39,7 @@ Project Url - https://reqres.in/
 * Create POJO Class of Complex Nested JSON Object
 * Ignore Empty, Null & Default Values In Payload (@JsonInclude)
 * Ignore Fields from POJO Class From Serialization&Deserialization
+* Ignore Unknown Properties During Deserialization Process
 * 
 
 
