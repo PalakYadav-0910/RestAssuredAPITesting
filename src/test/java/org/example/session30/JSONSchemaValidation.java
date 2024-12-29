@@ -13,7 +13,19 @@ public class JSONSchemaValidation {
     @Test
     public void testMethod(){
 
-        String requestPayload = "{\n" +
+        //JSON Schema Validator - https://www.jsonschemavalidator.net/
+        //JSON Schema Generator - https://transform.tools/json-to-json-schema
+
+        //Maven Dependency-
+
+        /*<!-- https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator -->
+        <dependency>
+        <groupId>io.rest-assured</groupId>
+        <artifactId>json-schema-validator</artifactId>
+        <version>5.5.0</version>
+        </dependency>*/
+
+                String requestPayload = "{\n" +
                 "    \"username\" : \"admin\",\n" +
                 "    \"password\" : \"password123\"\n" +
                 "}";
