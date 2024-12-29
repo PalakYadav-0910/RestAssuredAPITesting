@@ -43,7 +43,7 @@ Project Url - https://reqres.in/
 * Mock API Easily | Convert JSON Response To POJO Class Object
 * ResponseSpecification & ResponseSpecBuilder
 * JSON Schema Validation
-* 
+* JSON Schema Validation Without Rest Assured
 
 
 ### Rest Assured Advance
