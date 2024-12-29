@@ -41,6 +41,7 @@ Project Url - https://reqres.in/
 * Ignore Fields from POJO Class From Serialization&Deserialization
 * Ignore Unknown Properties During Deserialization Process
 * Mock API Easily | Convert JSON Response To POJO Class Object
+* ResponseSpecification & ResponseSpecBuilder
 * 
 
 
