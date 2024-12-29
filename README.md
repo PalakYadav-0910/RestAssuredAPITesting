@@ -42,6 +42,7 @@ Project Url - https://reqres.in/
 * Ignore Unknown Properties During Deserialization Process
 * Mock API Easily | Convert JSON Response To POJO Class Object
 * ResponseSpecification & ResponseSpecBuilder
+* JSON Schema Validation
 * 
 
 
