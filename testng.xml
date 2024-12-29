@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="RestAssuredAPITesting">
+        <classes>
+            <class name="org.example.session02.FirstGetRequest"/>
+            <class name="org.example.session03.GetRequest"/>
+            <class name="org.example.session03.PostRequest"/>
+            <class name="org.example.session03.PutRequest"/>
+            <class name="org.example.session03.PatchRequest"/>
+            <class name="org.example.session03.DeleteRequest"/>
+            <class name="org.example.session04.Validate_HTTP_ResponseStatus"/>
+            <class name="org.example.session05.Validate_HTTP_ResponseHeaders"/>
+            <class name="org.example.session06.ValidateJSONResponseBody"/>
+            <class name="org.example.session07.QueryParameter"/>
+            <class name="org.example.session08.BasicAndDigestAuthentication"/>
+            <class name="org.example.session09.BearerTokenAuthentication"/>
+            <class name="org.example.session10.APIKeyAuthentication"/>
+            <class name="org.example.session11.OAuth2_Authorization"/>
+            <class name="org.example.session12.JSONPostRequest_Response"/>
+            <class name="org.example.session12.DeserializeJSONResponse"/>
+            <class name="org.example.session13.QueryRequestSpecification"/>
+            <class name="org.example.session14.ValidateJSONResponse"/>
+            <class name="org.example.session14.ValidateXMLResponse"/>
+            <class name="org.example.session15.JSONObjectUsingJavaMap"/>
+            <class name="org.example.session16.JSONArrayDemo"/>
+            <class name="org.example.session17.JSONObjectUsingJacksonAPI"/>
+            <class name="org.example.session18.FileUploadDemo"/>
+            <class name="org.example.session19.OwnAPITesting"/>
+            <class name="org.example.session20.SerializationAndDeSerialization"/>
+            <class name="org.example.session21.JSONArrayPOJOClassDemo"/>
+            <class name="org.example.session22.NestedJSONPayload"/>
+            <class name="org.example.session23.ComplexNestedJSONTest"/>
+            <class name="org.example.session24.DemoJSONInclude"/>
+            <class name="org.example.session25.DemoJSONIgnore"/>
+            <class name="org.example.session26.DemoIgnoreUnknownProperties"/>
+            <class name="org.example.session27.MockAPIDemo"/>
+            <class name="org.example.session28.AddHeadersInRequest"/>
+            <class name="org.example.session29.DemoResponseSpec"/>
+            <class name="org.example.session30.JSONSchemaValidation"/>
+            <class name="org.example.session31.JSONSchemaValidationWithoutRestAssured"/>
+        </classes>
+    </test>
+</suite>
